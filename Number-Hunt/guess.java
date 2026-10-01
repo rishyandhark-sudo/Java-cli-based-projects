@@ -3,7 +3,7 @@ import java.util.Random;
 
 class Main {
     public static void main(String[] args) {
-
+System.out.println("------Number Hunt Game------");
         int target, guess;
         Random rand = new Random();
 
