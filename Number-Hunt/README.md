@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game
+# Number-Hunt
 
 A simple **console-based Number Guessing Game** developed using Java.
 
