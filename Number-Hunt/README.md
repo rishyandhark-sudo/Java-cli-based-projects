@@ -34,13 +34,13 @@ Number-Guessing-Game/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rishyandhark-sudo/java-mini-projects.git
+git clone https://github.com/rishyandhark-sudo/Java-cli-based-projects
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd java-mini-projects/Number-Guessing-Game
+cd 
 ```
 
 ### 3. Compile the program
