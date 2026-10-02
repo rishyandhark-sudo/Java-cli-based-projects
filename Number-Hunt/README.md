@@ -40,7 +40,7 @@ git clone https://github.com/rishyandhark-sudo/Java-cli-based-projects
 ### 2. Navigate to the project directory
 
 ```bash
-cd 
+cd https://github.com/rishyandhark-sudo/Java-cli-based-projects/tree/main/Number-Hunt
 ```
 
 ### 3. Compile the program
